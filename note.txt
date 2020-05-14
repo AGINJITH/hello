@@ -1,0 +1,62 @@
+﻿	
+	one of your interests- topic globlisation 
+	
+	at least four different .html pages,
+	1 home page
+	3 deffent branchs of topic
+	          
+		  -effect and dought /*done*/	
+		  -hurcane and algal blooms/*done*/
+		  -strom and floud /*done*/
+
+	 should be possible to get from any page on your website to any other page
+			
+			-use hyperlin to do it./*done*/
+
+	at least one list
+	  - list of something any page/*done*/
+
+	at least one table,/*done*/
+	 - in page of stom /*done*/  
+
+	at least one image/*done*/
+	- image in all page
+
+	CSS
+	 
+	must have at least one stylesheet file/*done*/
+
+		    at least five different CSS propertie hopefully /*done*/
+		   
+		    #id selector at least once/*done*/
+			
+		    at least five different types of CSS selectors/*done*/
+			
+			the .class selector at least once/*done*/
+			 
+			at least one mobile-responsive @media query(styling changes for smaller screens)
+			
+			
+			Bootstrap 4
+			
+			
+			must use Bootstrap 4 on your website
+					
+					taking advantage of at least one Bootstrap component(https://getbootstrap.com/docs/4.3/components/)
+					
+					at least two Bootstrap columns for layout purpose(https://getbootstrap.com/docs/4.3/components/)
+					
+			
+			SCSS
+			
+			 
+			 at least one SCSS variable
+			 
+			 at least one example of SCSS nesting
+			 
+			 at least one use of SCSS inheritance.
+			 
+			 
+	In README.md, include a short writeup describing your project, 
+	what’s contained in each file, and 
+	(optionally) any other additional information the staff should know about your project.					
